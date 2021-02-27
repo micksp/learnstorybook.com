@@ -1,20 +1,45 @@
-Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder developers dat vertaling gekunsteld zou worden als we ze letterlijk vertalen. 
-* app
-* ui
+# Overwegingen bij de vertalingen 
+## Niet vertalen
+Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder developers dat een letterlijke vertaling gekunsteld zou overkomen. 
+### niet vertaalde IT/dev termen
 * business logica
-* package
-* downloaden
-* workflow
+* addons
+* app
 * assets
-* tutorial
-* component explorer
-* repository
+* callback
+* class
 * comitten
+* downloaden
+* features 
+* markup
+* package
+* properties
+* random
+* renderen
+* repository
+* stub
+* tutorial
+* ui
+* workflow
 
-Nog wat keuzes: 
+### niet vertaalde Storybook termen
+* actions panel
+* component explorer
+* controls addon
+* Storybook
+* story (in dit verband natuurlijk)
+
+## Nog wat keuzes: 
 * van 'modalities' heb ik aandachtsgebieden gemaakt
 * verschijningsvorm
+* de component heet Task, het leek me verstandig dat ook niet te vertalen.
+* de eerste keer permutations heb ik er `toestand of "permutatie"` van gemaakt. Daarna hanteer ik het woord `permutatie`. 
 
-# todo
+## todo
 - check of de gelinkte artikelen ook in nl beschikbaar zijn
+- in simple component staat deze tekst twee keer: 
+```
+`actions` allows us to create callbacks that appear in the **actions** panel of the Storybook UI when clicked. So when we build a pin button, we’ll be able to determine in the test UI if a button click is successful.
+```
+
 
