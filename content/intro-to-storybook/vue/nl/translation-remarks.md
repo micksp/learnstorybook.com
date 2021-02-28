@@ -2,18 +2,22 @@
 ## Niet vertalen
 Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder developers dat een letterlijke vertaling gekunsteld zou overkomen. 
 ### niet vertaalde IT/dev termen
-* business logica
 * addons
 * app
+* assertions
 * assets
+* business logica
 * callback
 * class
 * comitten
+* decorators
 * downloaden
-* features 
+* features
+* key 
 * markup
 * package
 * properties
+* queries
 * random
 * renderen
 * repository
@@ -21,6 +25,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * tutorial
 * ui
 * workflow
+* wrapper
 
 ### niet vertaalde Storybook termen
 * actions panel

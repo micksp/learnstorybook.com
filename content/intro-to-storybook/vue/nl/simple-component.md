@@ -287,5 +287,5 @@ Nadat dit gedaan is, kun je `yarn test:unit` starten en zie je de volgende outpu
 We hebben nu een snapshot test voor elke `Task` story. Als we de implementatie van `Task` wijzigen krijgen we een waarschuwing om de wijziging te verifieren. 
 
 <div class="aside">
-💡 Vergeet niet je wijzigingen op te slaan in git!
+💡 Vergeet niet je wijzigingen te comitten in git!
 </div>
