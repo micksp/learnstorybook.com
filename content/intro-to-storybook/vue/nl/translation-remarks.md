@@ -21,6 +21,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * random
 * renderen
 * repository
+* stateless
 * stub
 * tutorial
 * ui
