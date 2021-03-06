@@ -10,6 +10,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * callback
 * class
 * comitten
+* Component-Driven Development
 * decorators
 * downloaden
 * features
