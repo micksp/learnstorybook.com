@@ -9,6 +9,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * business logica
 * callback
 * class
+* commandline
 * comitten
 * Component-Driven Development
 * decorators
@@ -26,6 +27,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * repository
 * reviewen
 * stateless
+* static
 * stub
 * tutorial
 * ui
