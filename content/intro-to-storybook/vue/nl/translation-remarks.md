@@ -12,6 +12,8 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * comitten
 * Component-Driven Development
 * decorators
+* deploy
+* development
 * downloaden
 * features
 * key 
@@ -22,6 +24,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * random
 * renderen
 * repository
+* reviewen
 * stateless
 * stub
 * tutorial
