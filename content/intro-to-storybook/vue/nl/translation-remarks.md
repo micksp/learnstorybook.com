@@ -19,13 +19,14 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * features
 * key 
 * markup
+* merge
 * package
 * properties
 * queries
 * random
 * renderen
 * repository
-* reviewen
+* reviewen (soms toch vertaald naar "controleren")
 * stateless
 * static
 * stub
