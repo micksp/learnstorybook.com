@@ -16,6 +16,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * deploy
 * development
 * downloaden
+* ebook
 * features
 * key 
 * markup
@@ -24,6 +25,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * properties
 * queries
 * random
+* recources
 * renderen
 * repository
 * reviewen (soms toch vertaald naar "controleren")
