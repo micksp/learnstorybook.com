@@ -1,12 +1,13 @@
 ---
 title: 'Data toevoegen'
 tocTitle: 'Data'
-description: 'Leer hoe je data toevoegt aan je UI component'
+description: 'Data toevoegen aan je UI component'
 commit: 'fa1c954'
 ---
+
 Tot nu toe hebben we geisoleerde stateless componenten gemaakt -perfect voor Storybook, maar uiteindelijk niet bruikbaar tot we ze wat data geven in onze app.
 
-In deze tutorial focussen we niet op het maken van een app, dus we gaan daar verder niet op in. Maar we nemen even een moment om een gebruikelijke methode te bekijken om data naar toe te voegen aan container componenten. 
+In deze tutorial focussen we niet op het maken van een app, dus we gaan daar verder niet op in. Maar we nemen even een moment om een gebruikelijke methode te bekijken om data naar toe te voegen aan container componenten.
 
 ## Container componenten
 
@@ -85,6 +86,7 @@ We kunnen de store vrij eenvoudig toevoegen aan de component hiërarchie in de t
   @import './index.css';
 </style>
 ```
+
 Vervolgens laten we onze `TaskList` de data uit de store lezen. Eerst verplaatsen we onze presentationele versie naar een bestand `src/components/PureTaskList.vue` (hernoemen van de component naar `PureTaskList`), en plaatsen die in een container.
 
 In `src/components/PureTaskList.vue`:
@@ -127,8 +129,8 @@ In `src/components/TaskList.vue`:
   };
 </script>
 ```
-De reden om de poresentationele versie van de `TaskList` apart te houden is dat testen en isoleren eenvoudiger is. Omdat de component niet afhankelijk is van de store, is het eenvoudiger te verwerken vanuit een test perspectief. We hernoemen `src/components/TaskList.stories.js` naar `src/components/PureTaskList.stories.js` en zorgen dat de stories de presentationele versie gebruiken: 
 
+De reden om de poresentationele versie van de `TaskList` apart te houden is dat testen en isoleren eenvoudiger is. Omdat de component niet afhankelijk is van de store, is het eenvoudiger te verwerken vanuit een test perspectief. We hernoemen `src/components/TaskList.stories.js` naar `src/components/PureTaskList.stories.js` en zorgen dat de stories de presentationele versie gebruiken:
 
 ```javascript
 // src/components/PureTaskList.stories.js

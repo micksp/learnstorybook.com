@@ -1,5 +1,5 @@
 ---
-title: 'Conclusion'
+title: 'Conclusie'
 description: 'Pas je opgedane kennis toe en leer meer Storybook-technieken'
 ---
 
@@ -26,6 +26,7 @@ Wil je meer leren? Dit zijn behulpzame recources:
 - [**Storybook blog**](https://medium.com/storybookjs) presenteert de laatste release en features om je UI development workflow te stroomlijnen.
 
 ## Wie hebben LearnStorybook.com gemaakt?
+
 De tekst, code en productie zijn bijdragen van [Chromatic](https://www.chromatic.com/). De tutorial is geent op Chromatic's populaire [GraphQL + React tutorial serie](https://www.chromatic.com/blog/graphql-react-tutorial-part-1-6).
 
 Wil je meer tutorials en artikelen zoals deze? Meld je aan voor de Storybook mailing list.

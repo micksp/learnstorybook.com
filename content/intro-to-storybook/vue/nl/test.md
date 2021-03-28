@@ -1,5 +1,5 @@
 ---
-title: 'Test UI componenten'
+title: 'Testen UI componenten'
 tocTitle: 'Testen'
 description: 'Manieren om UI componenten te testen'
 commit: 8bf107e
@@ -55,6 +55,7 @@ Wijzig de `Task` component naar het volgende:
   style="background: red;"
 />
 ```
+
 Dit levert een nieuwe achtergrondkleur op voor een item.
 
 ![task background change](/intro-to-storybook/chromatic-task-change.png)
@@ -76,6 +77,7 @@ En push de wijziging naar de repository:
 ```bash
 git push -u origin change-task-background
 ```
+
 Open tenslotte je Github repository en maak een pull request voor de `change-task-background` branch.
 
 ![Een PR in GitHub aanmaken voor task](/github/pull-request-background.png)
