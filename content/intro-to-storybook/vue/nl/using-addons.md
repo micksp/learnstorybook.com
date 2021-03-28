@@ -83,9 +83,9 @@ Nu kunnen we het probleem eenvoudig reproduceren en er aan werken.
 </video>
 
 Bij het [visueel testing](/intro-to-storybook/vue/nl/test/) zien we of de ellipsen oplossing blijft werken.
-Zonder test coverage is het waarschijnlijker dat obscure randzaken over het hoofd worden gezien!
+Zonder test coverage is het waarschijnlijker dat obscure randzaken over het hoofd worden gezien.
 
-<div class="aside"><p>💡 Controls is prima om niet-ontwikkelaars de mogelijkheid te geven om te spelen met de componenten en stories, veel meer nog dan we hier gezien hebben here. Lees de <a href="https://storybook.js.org/docs/vue/essentials/controls">officiele documentatie</a> voor meer informatie. Er zijn nog veel meer mogelijkheden met addons om Storybook aan te sluiten bij je workflow.</div>
+<div class="aside"><p>💡 Controls is prima om niet-ontwikkelaars de mogelijkheid te geven om te spelen met de componenten en stories, veel meer nog dan we hier gezien hebben. Lees de <a href="https://storybook.js.org/docs/vue/essentials/controls">officiele documentatie</a> voor meer informatie. Er zijn nog veel meer mogelijkheden met addons om Storybook aan te sluiten bij je workflow.</div>
 
 ### Merge wijzigingen
 

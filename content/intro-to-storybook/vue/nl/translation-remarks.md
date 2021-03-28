@@ -31,6 +31,7 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * stateless
 * static
 * stub
+* test coverage
 * tutorial
 * ui
 * use case
