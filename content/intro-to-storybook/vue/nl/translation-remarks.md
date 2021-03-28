@@ -27,11 +27,13 @@ Sommige woorden heb ik niet vertaald omdat ze zo gebruikelijk zijn onder develop
 * renderen
 * repository
 * reviewen (soms toch vertaald naar "controleren")
+* stakeholders
 * stateless
 * static
 * stub
 * tutorial
 * ui
+* use case
 * workflow
 * wrapper
 
